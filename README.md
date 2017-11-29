@@ -1,1 +1,3 @@
-# deep-learning-for-text-classification-in-pytorch
+# PyDeepText: Neural network models for text classfication implemented in PyTorch.
+
+
